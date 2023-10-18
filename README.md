@@ -1,2 +1,0 @@
-# ActuatorDemo
- Actuator Test Demo
